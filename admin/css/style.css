@@ -1,0 +1,20 @@
+body {margin:0;padding:0;width:100%;color:#8e8e8e; background-color:#000000}
+#navcontainer
+{
+background-image:url(images/monitor.png)
+
+}
+#navlist
+{
+margin-left: 0;
+padding-left: 0;
+list-style: none;
+}
+
+#navlist li 
+{
+padding-left: 10px;
+background-image:url(images/monitor.png)
+background-repeat: no-repeat;
+background-position: 0 .5em;
+}
